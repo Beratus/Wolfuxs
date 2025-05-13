@@ -9,3 +9,6 @@ def main():
 
     updater.start_polling()
     updater.idle()
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push
